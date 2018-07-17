@@ -1,0 +1,32 @@
+{
+    "day": [
+      {
+        "title": "Check-in + Tea",
+        "time": "07:00"
+      },
+      {
+        "title": "Coding + Device testing",
+        "time": "07:30"
+      },
+      {
+        "title": "Breakfast",
+        "time": "09:30"
+      },
+      {
+        "title": "Presentation",
+        "time": "10:00"
+      },
+      {
+        "title": "Lunch",
+        "time": "13:00"
+      },
+      {
+        "title": "Winner Declaration",
+        "time": "14:00"
+      },
+      {
+        "title": "Closing Ceremony",
+        "time": "14:30"
+      }
+    ]
+  }

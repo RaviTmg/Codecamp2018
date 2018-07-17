@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394790025304",
+    "firebase_url": "https://codecamp2018-c3e44.firebaseio.com",
+    "project_id": "codecamp2018-c3e44",
+    "storage_bucket": "codecamp2018-c3e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394790025304:android:31d0a4fe30039e0b",
+        "android_client_info": {
+          "package_name": "com.crumet.codecamp2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394790025304-c69idi480gghpi4bqk90pf2hqdi89nn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crumet.codecamp2018",
+            "certificate_hash": "2a8bc3006de816ad453fbdfd05e467a04a55fac7"
+          }
+        },
+        {
+          "client_id": "394790025304-1pmpbq9hgi7n4rvj9dcpfnld5vfvkib2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcT1ITzJuOFDgpju4Ag8lQ6JGhS0Gkp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394790025304-1pmpbq9hgi7n4rvj9dcpfnld5vfvkib2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

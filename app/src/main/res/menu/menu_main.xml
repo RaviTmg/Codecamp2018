@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.crumet.codecamp2018.MainActivity">
+    <item
+        android:icon="@drawable/ic_shedule"
+        android:id="@+id/schedule"
+        android:title="schedule"/>
+    <item
+        android:icon="@drawable/ic_sponsor"
+        android:id="@+id/sponsors"
+        android:title="Sponsors"/>
+    <item
+        android:icon="@drawable/ic_multiple_users_silhouette"
+        android:id="@+id/people"
+        android:title="people"/>
+
+    <item
+        android:icon="@drawable/ic_about"
+        android:id="@+id/about"
+        android:title="about"/>
+</menu>

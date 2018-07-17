@@ -1,0 +1,28 @@
+{
+  "day": [
+    {
+      "title": "check-in",
+      "time": "10:00"
+    },
+    {
+      "title": "Inauguration",
+      "time": "10:30"
+    },
+    {
+      "title": "Coding",
+      "time": "12:30"
+    },
+    {
+      "title": "Lunch",
+      "time": "14:30"
+    },
+    {
+      "title": "Coding",
+      "time": "15:00"
+    },
+    {
+      "title": "Hi-Tea",
+      "time": "8:00"
+    }
+  ]
+}
